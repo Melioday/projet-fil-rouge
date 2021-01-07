@@ -169,6 +169,7 @@ h2 {
 	transform: scale(1);
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
+	text-align: center;
 }
 
 #Jeux1 :hover {
